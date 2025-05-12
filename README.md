@@ -17,3 +17,8 @@ Afterwards, regenerate you initial ramdisk. (this will vary depending on your sy
 ```shell
 sudo mkinitcpio -P
 ```
+
+## TODO:
+  Create Install Script
+  Upload on the AUR 
+  Contemplate My Life Choices
