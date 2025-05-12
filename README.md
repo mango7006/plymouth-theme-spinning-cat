@@ -8,7 +8,6 @@ If you have not yet installed plymouth: https://wiki.archlinux.org/title/Plymout
 
 ## How to install:
 Simply clone this repo, move it into `/usr/share/plymouth/themes/` and enable it.
-````
 ```shell
 git clone https://github.com/mango7006/cattheme
 mv -r cattheme /usr/share/plymouth/themes/
