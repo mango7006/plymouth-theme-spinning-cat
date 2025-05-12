@@ -19,6 +19,6 @@ sudo mkinitcpio -P
 ```
 
 ## TODO:
-  Create Install Script
-  Upload on the AUR 
-  Contemplate My Life Choices
+Create Install Script
+Upload on the AUR 
+Contemplate My Life Choices
