@@ -13,12 +13,7 @@ git clone https://github.com/mango7006/cattheme
 mv -r cattheme /usr/share/plymouth/themes/
 plymouth-set-default-theme -R cattheme
 ```
-Afterwards, regenerate you initial ramdisk. (this will vary depending on your system)
-```shell
-sudo mkinitcpio -P
-```
 
 ## TODO:
-- Create Install Script
-- Upload on the AUR 
 - Contemplate My Life Choices
+- Make more dumb themes
