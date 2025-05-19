@@ -5,5 +5,5 @@ Comment=created by Magnus van der Wal (mango7006)
 ModuleName=script
 
 [script]
-ImageDir=/usr/share/plymouth/themes/cattheme
-ScriptFile=/usr/share/plymouth/themes/cattheme/cattheme.script
+ImageDir=/usr/share/plymouth/themes/plymouth-theme-spinning-cat
+ScriptFile=/usr/share/plymouth/themes/plymouth-theme-spinning-cat/plymouth-theme-spinning-cat.script
