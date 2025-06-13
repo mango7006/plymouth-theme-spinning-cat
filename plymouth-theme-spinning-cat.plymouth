@@ -1,7 +1,7 @@
 [Plymouth Theme]
 Name=plymouth-theme-spinning-cat
 Description=OIIA OIIA Spinning Cat
-Comment=created by Magnus van der Wal (mango7006)
+Comment=created by mango7006
 ModuleName=script
 
 [script]
